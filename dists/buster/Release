@@ -1,0 +1,19 @@
+Origin: ssff.github.io/debian
+Label: ssff.github.io/debian
+Codename: buster
+Date: Tue, 07 Apr 2020 00:36:25 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 21be80713ea6c95bb9fbdf6535261c87 1868 main/binary-amd64/Packages
+ f9c11fee918703a10ff4d1e0e038626b 1064 main/binary-amd64/Packages.gz
+ 6251dd5f74d23f0d92a7378e153029aa 128 main/binary-amd64/Release
+SHA1:
+ c0c294130c5bdb24db277c4bd9c2b885161b2c79 1868 main/binary-amd64/Packages
+ f77a456ce9fada4383febc94e1d2a1b2ccf60ec3 1064 main/binary-amd64/Packages.gz
+ 2ea0dc944111b6d8090c2eaab84cd66aac572f76 128 main/binary-amd64/Release
+SHA256:
+ 2cf70d4552a72a66e1ffeb51013dd5272bd0e4aa40d76ba969127a64064ed527 1868 main/binary-amd64/Packages
+ 420fd5214531276b8568fb07656baada850e866dcb7d31e4f2695323f848a0e5 1064 main/binary-amd64/Packages.gz
+ 5f406e0c3f05776104f1142df56a9f48bc282310ec840bbb6439c1a11a934ac8 128 main/binary-amd64/Release

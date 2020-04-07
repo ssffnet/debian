@@ -1,0 +1,5 @@
+Component: main
+Origin: ssff.github.io/debian
+Label: ssff.github.io/debian
+Architecture: amd64
+Description: Personal repository

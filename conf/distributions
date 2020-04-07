@@ -1,0 +1,7 @@
+Origin: ssff.github.io/debian
+Label: ssff.github.io/debian
+Codename: buster
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: 5AB96E04
